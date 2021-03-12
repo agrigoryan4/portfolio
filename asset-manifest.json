@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d621b32.chunk.css",
-    "main.js": "/portfolio/static/js/main.1c36df15.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1c36df15.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.4d259e06.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4d259e06.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.3bdc3f7b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.3bdc3f7b.js.map",
     "static/js/2.d3bf3794.chunk.js": "/portfolio/static/js/2.d3bf3794.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/digitalclock_demo.5230ab7e.jpg": "/portfolio/static/media/digitalclock_demo.5230ab7e.jpg",
     "static/media/gridalbumlayout_demo.9ed9b9d4.jpg": "/portfolio/static/media/gridalbumlayout_demo.9ed9b9d4.jpg",
     "static/media/huzerangner_demo.23bae383.png": "/portfolio/static/media/huzerangner_demo.23bae383.png",
-    "static/media/me.e704dd25.jpg": "/portfolio/static/media/me.e704dd25.jpg",
+    "static/media/me.59b52a4f.jpg": "/portfolio/static/media/me.59b52a4f.jpg",
     "static/media/memories_demo.facf0fbe.png": "/portfolio/static/media/memories_demo.facf0fbe.png",
     "static/media/notesdesk_demo.92d77637.png": "/portfolio/static/media/notesdesk_demo.92d77637.png",
     "static/media/personalportfolio_demo.911b8199.jpg": "/portfolio/static/media/personalportfolio_demo.911b8199.jpg",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.3bdc3f7b.js",
     "static/js/2.d3bf3794.chunk.js",
     "static/css/main.1d621b32.chunk.css",
-    "static/js/main.1c36df15.chunk.js"
+    "static/js/main.4d259e06.chunk.js"
   ]
 }
