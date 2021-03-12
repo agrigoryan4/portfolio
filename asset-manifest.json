@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d621b32.chunk.css",
-    "main.js": "/portfolio/static/js/main.4d259e06.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4d259e06.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.493f7966.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.493f7966.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.3bdc3f7b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.3bdc3f7b.js.map",
     "static/js/2.d3bf3794.chunk.js": "/portfolio/static/js/2.d3bf3794.chunk.js",
@@ -12,25 +12,25 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.1d621b32.chunk.css.map": "/portfolio/static/css/main.1d621b32.chunk.css.map",
     "static/js/2.d3bf3794.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d3bf3794.chunk.js.LICENSE.txt",
-    "static/media/bloglayout_demo.74d10f56.jpg": "/portfolio/static/media/bloglayout_demo.74d10f56.jpg",
-    "static/media/breezeweather_demo.1ae34745.png": "/portfolio/static/media/breezeweather_demo.1ae34745.png",
-    "static/media/devconnectortheme_demo.e184f056.jpg": "/portfolio/static/media/devconnectortheme_demo.e184f056.jpg",
-    "static/media/digitalclock_demo.5230ab7e.jpg": "/portfolio/static/media/digitalclock_demo.5230ab7e.jpg",
-    "static/media/gridalbumlayout_demo.9ed9b9d4.jpg": "/portfolio/static/media/gridalbumlayout_demo.9ed9b9d4.jpg",
-    "static/media/huzerangner_demo.23bae383.png": "/portfolio/static/media/huzerangner_demo.23bae383.png",
+    "static/media/bloglayout_demo.2a2dd0f2.jpg": "/portfolio/static/media/bloglayout_demo.2a2dd0f2.jpg",
+    "static/media/breezeweather_demo.700d5931.jpg": "/portfolio/static/media/breezeweather_demo.700d5931.jpg",
+    "static/media/devconnectortheme_demo.40d472e2.jpg": "/portfolio/static/media/devconnectortheme_demo.40d472e2.jpg",
+    "static/media/digitalclock_demo.00b0ea25.jpg": "/portfolio/static/media/digitalclock_demo.00b0ea25.jpg",
+    "static/media/gridalbumlayout_demo.b81b36db.jpg": "/portfolio/static/media/gridalbumlayout_demo.b81b36db.jpg",
+    "static/media/huzerangner_demo.091d5e2b.jpg": "/portfolio/static/media/huzerangner_demo.091d5e2b.jpg",
     "static/media/me.59b52a4f.jpg": "/portfolio/static/media/me.59b52a4f.jpg",
-    "static/media/memories_demo.facf0fbe.png": "/portfolio/static/media/memories_demo.facf0fbe.png",
-    "static/media/notesdesk_demo.92d77637.png": "/portfolio/static/media/notesdesk_demo.92d77637.png",
+    "static/media/memories_demo.83334142.jpg": "/portfolio/static/media/memories_demo.83334142.jpg",
+    "static/media/notesdesk_demo.2d3c53aa.jpg": "/portfolio/static/media/notesdesk_demo.2d3c53aa.jpg",
     "static/media/personalportfolio_demo.911b8199.jpg": "/portfolio/static/media/personalportfolio_demo.911b8199.jpg",
     "static/media/productlandingpage_demo.a7128730.jpg": "/portfolio/static/media/productlandingpage_demo.a7128730.jpg",
     "static/media/surveyform_demo.6fbcf110.jpg": "/portfolio/static/media/surveyform_demo.6fbcf110.jpg",
-    "static/media/tacos_demo.f80feb3e.jpg": "/portfolio/static/media/tacos_demo.f80feb3e.jpg",
+    "static/media/tacos_demo.0ed67626.jpg": "/portfolio/static/media/tacos_demo.0ed67626.jpg",
     "static/media/technicaldocumentationpage_demo.649636f1.png": "/portfolio/static/media/technicaldocumentationpage_demo.649636f1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3bdc3f7b.js",
     "static/js/2.d3bf3794.chunk.js",
     "static/css/main.1d621b32.chunk.css",
-    "static/js/main.4d259e06.chunk.js"
+    "static/js/main.493f7966.chunk.js"
   ]
 }
